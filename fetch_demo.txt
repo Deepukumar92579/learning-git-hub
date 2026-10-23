@@ -1,0 +1,2 @@
+I am practising git fetch.
+Git fetch downloads remote updates without merging them automatically.
